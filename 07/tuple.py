@@ -1,0 +1,5 @@
+newTup = ("jonathan","Goblin","ScoutOP")
+print(type(newTup))
+print(newTup)
+couter = newTup.count("jonathan")
+print(couter)
