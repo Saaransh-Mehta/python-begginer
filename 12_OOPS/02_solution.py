@@ -28,3 +28,4 @@ class ElectricCar(Cars):
 new_car = Cars("Toyota","Fortuner")
 print(Cars.general_desription())
 print(new_car.get_brand)
+print(isinstance(new_car,Cars))
